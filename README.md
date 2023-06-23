@@ -7,4 +7,4 @@ The file 2DIsingSimulation.cpp is used to generate data files to analyze the beh
 
 The .cpp file will create 5 files, one each for Energy, Energy^2, Magnetization, Mag^2, and Mag^4, which are used to analyze the model. If you change the L variable, the file name will change as well. 
 
-The .ipynb file is used to generate relevant physical quantities such as magnetization, magnetic susceptibility, specific heat, and binder cumulant using the data from the .cpp file. It also plots these quantities.
+The .ipynb file is used to generate relevant physical quantities such as magnetization, magnetic susceptibility, specific heat, and binder cumulant using the data from the .cpp file. It also plots these quantities, as well as computes and plots the finite-size scaling using critical exponents.
